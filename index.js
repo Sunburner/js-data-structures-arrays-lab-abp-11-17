@@ -18,6 +18,6 @@ drivers.shift()
 }
 
 appendDriver(name) {
-  drivers, `Tom`
+  [drivers, `Tom`]
 
 }
