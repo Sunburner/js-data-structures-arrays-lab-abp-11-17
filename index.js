@@ -6,5 +6,5 @@ drivers.push(`Ralph`)
 }
 
 function destructivelyPrependDriver(name) {
-drivers.push(`Bob`)
+unshift.push(`Bob`)
 }
