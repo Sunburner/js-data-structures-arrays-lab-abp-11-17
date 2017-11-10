@@ -18,6 +18,6 @@ drivers.shift()
 }
 
 function appendDriver(name) {
-return []...drivers, `Broom`];
+return [...drivers, `Broom`];
 
 }
