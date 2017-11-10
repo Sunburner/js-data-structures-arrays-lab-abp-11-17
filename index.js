@@ -18,6 +18,6 @@ drivers.shift()
 }
 
 //function appendDriver(name) {
-const appendDriver(name) = [drivers, `Broom`];
+const appendDriver(name) = [drivers, ...`Broom`];
 
 }
