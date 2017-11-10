@@ -18,6 +18,6 @@ drivers.shift()
 }
 
 function appendDriver(name) {
-  [drivers, `Tom`]
+  const newname = [drivers, `Tom`]
 
 }
